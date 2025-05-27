@@ -10,14 +10,9 @@ This project demonstrates the efficiency and effectiveness of DSPy compared to m
 
 ## Setup
 
-1. Install dependencies:
+Install dependencies:
 ```bash
 pip install -r requirements.txt
-```
-
-2. Set your OpenAI API key:
-```bash
-export OPENAI_API_KEY="your-api-key-here"
 ```
 
 ## Usage
